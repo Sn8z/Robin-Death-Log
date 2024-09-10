@@ -3,7 +3,8 @@ local addonName, rDL = ...
 local characters = {
 	["Drakbrink"] = true,
 	["Sprättarn"] = true,
-	["Brinkentosh"] = true
+	["Brinkentosh"] = true,
+	["GalnaTrollet"] = true
 }
 
 -- Death Counter Text
